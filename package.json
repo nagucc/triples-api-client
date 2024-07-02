@@ -1,0 +1,17 @@
+{
+  "name": "triples-api-client",
+  "version": "1.0.0",
+  "description": "操作triple-api的客户端",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "nagu-owl-types": "^1.4.2",
+    "nagu-triples-types": "^1.0.2"
+  }
+}
